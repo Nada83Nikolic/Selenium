@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26217" started-at="2022-02-12T16:41:16 CET" finished-at="2022-02-12T16:41:42 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26217" started-at="2022-02-12T16:41:16 CET" finished-at="2022-02-12T16:41:42 CET">
+      <class name="d_07_02_22_FormTest.FormTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:d_07_02_22_FormTest.FormTest@4923ab24]" name="beforeMethod" is-config="true" duration-ms="6736" started-at="2022-02-12T16:41:16 CET" finished-at="2022-02-12T16:41:23 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:d_07_02_22_FormTest.FormTest@4923ab24]" name="Test" duration-ms="18681" started-at="2022-02-12T16:41:23 CET" finished-at="2022-02-12T16:41:42 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:d_07_02_22_FormTest.FormTest@4923ab24]" name="afterMethod" is-config="true" duration-ms="730" started-at="2022-02-12T16:41:42 CET" finished-at="2022-02-12T16:41:42 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- d_07_02_22_FormTest.FormTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
